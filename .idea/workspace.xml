@@ -9,17 +9,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="step2 complete">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +67,7 @@
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
   <component name="RunManager" selected="Android App.app">
-    <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
         <pattern>
@@ -183,7 +175,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
-        <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
         <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
       </list>
     </recent_temporary>
@@ -206,13 +197,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601077297042</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="step 3 complete">
+      <created>1601100382638</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601100382638</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="candycoded application" />
     <MESSAGE value="step2 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="step2 complete" />
+    <MESSAGE value="step 3 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="step 3 complete" />
   </component>
   <component name="WindowStateProjectService">
     <state x="251" y="62" key="#PSD" timestamp="1601083212999">
@@ -235,10 +234,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="758" y="160" key="AndroidCreateXmlResourceDialog/0.0.1366.728@0.0.1366.728" timestamp="1601099257717" />
-    <state x="202" y="0" key="CommitChangelistDialog2" timestamp="1601096489187">
+    <state x="202" y="0" key="CommitChangelistDialog2" timestamp="1601100403063">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="202" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601096489187" />
+    <state x="202" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601100403063" />
     <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1601010478002">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -263,10 +262,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601021821523" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601079350094">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601100474642">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601079350094" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601100474642" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1601099100371">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
