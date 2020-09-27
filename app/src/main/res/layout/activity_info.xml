@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout
+<androidx.appcompat.app.AppCompatActivity
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -53,7 +53,9 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/image_view_map"
         android:layout_marginStart="0dp"
-        android:layout_marginEnd="8dp" />
+        android:layout_marginEnd="8dp"
+        android:clickable="true"
+        android:onClick="createPhoneIntent"/>
 
     <TextView
         android:id="@+id/text_view_hours"
@@ -104,4 +106,4 @@
         app:srcCompat="@android:drawable/ic_dialog_map"
         android:layout_marginStart="16dp" />
 
-</android.support.constraint.ConstraintLayout>
+</androidx.appcompat.app.AppCompatActivity>
