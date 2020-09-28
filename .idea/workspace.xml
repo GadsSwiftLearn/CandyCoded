@@ -11,14 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/SettingsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/SettingsActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_1_StartTheStoreInformationActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_1_StartTheStoreInformationActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,14 +258,22 @@
       <option name="project" value="LOCAL" />
       <updated>1601330572277</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="step 4 complete">
+      <created>1601336640784</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601336640784</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="candycoded application" />
     <MESSAGE value="step2 complete" />
     <MESSAGE value="step 3 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="step 3 complete" />
+    <MESSAGE value="step 4 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="step 4 complete" />
   </component>
   <component name="WindowStateProjectService">
     <state x="226" y="150" key="#PSD" timestamp="1601332199676">
@@ -308,10 +308,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="758" y="160" key="AndroidCreateXmlResourceDialog/0.0.1366.728@0.0.1366.728" timestamp="1601099257717" />
-    <state x="202" y="0" key="CommitChangelistDialog2" timestamp="1601330567751">
+    <state x="202" y="0" key="CommitChangelistDialog2" timestamp="1601336635208">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="202" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601330567751" />
+    <state x="202" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601336635208" />
     <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1601162760958">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
