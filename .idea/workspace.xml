@@ -9,10 +9,16 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="step 3 complete">
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/SettingsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/SettingsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_1_StartTheStoreInformationActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_1_StartTheStoreInformationActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,12 +83,15 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.pluralsight.candycoded" />
     </key>
   </component>
-  <component name="RunManager" selected="Android App.app">
+  <component name="RunManager" selected="Android JUnit._3_StartThePhoneActivity">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -250,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601102495310</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="step 3 complete">
+      <created>1601330572277</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601330572277</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -260,10 +276,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="step 3 complete" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="226" y="150" key="#PSD" timestamp="1601169552084">
+    <state x="226" y="150" key="#PSD" timestamp="1601332199676">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="226" y="150" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1601169552084" />
+    <state x="226" y="150" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1601332199676" />
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601106016716">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -292,30 +308,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="758" y="160" key="AndroidCreateXmlResourceDialog/0.0.1366.728@0.0.1366.728" timestamp="1601099257717" />
-    <state x="202" y="0" key="CommitChangelistDialog2" timestamp="1601330334855">
+    <state x="202" y="0" key="CommitChangelistDialog2" timestamp="1601330567751">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="202" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601330334855" />
+    <state x="202" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601330567751" />
     <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1601162760958">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601162760958" />
-    <state width="1286" height="121" key="GridCell.Tab.0.bottom" timestamp="1601328820573">
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1601336556934">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="121" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601328820573" />
-    <state width="1286" height="121" key="GridCell.Tab.0.center" timestamp="1601328820573">
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601336556934" />
+    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1601336556932">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="121" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601328820573" />
-    <state width="1286" height="121" key="GridCell.Tab.0.left" timestamp="1601328820573">
+    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601336556932" />
+    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1601336556930">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="121" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601328820573" />
-    <state width="1286" height="121" key="GridCell.Tab.0.right" timestamp="1601328820573">
+    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601336556930" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1601336556933">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="121" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601328820573" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601336556933" />
     <state x="184" y="7" key="SettingsEditor" timestamp="1601111764909">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -324,10 +340,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601102514773" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1601330204293">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1601336307428">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1601330204293" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1601336307428" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Android_CandyCodedApplication$_2_StartTheGoogleMapsActivity.ic" NAME="_2_StartTheGoogleMapsActivity Coverage Results" MODIFIED="1601083798574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
